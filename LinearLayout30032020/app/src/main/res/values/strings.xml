@@ -1,12 +1,6 @@
-# LinearLayout30032020
-Bài tập LinearLayout 08/04/2020
-
-### String resources
-
-Em để toàn bộ String name cần thiết để add vào **layout** vào folder `Res`, em đặt tên nó là `layout_linearText`
-
-```xml
-<!--    activity_linearLayout1-->
+<resources>
+    <string name="app_name">LinearLayout30032020</string>
+    <!--    activity_linearLayout1-->
     <string name="layout_linearText1">A</string>
     <string name="layout_linearText2">B</string>
     <string name="layout_linearText3">C</string>
@@ -42,24 +36,5 @@ Em để toàn bộ String name cần thiết để add vào **layout** vào fol
     <string name="layout_linearText27">7</string>
     <string name="layout_linearText28">8</string>
     <string name="layout_linearText29">9</string>
-```
 
-### Result Picture
-
-Do em code khá nhiều `Linear Layout` nên nó hơi rối và khi `build` lên đt thì không có nút nhấn chuyển `activity` nên em để kết quả của hình ảnh ở đây để anh thấy kết quả ạ.
-
-***Bài 1:***
-
-![img](C:\Users\an241\AppData\Roaming\Typora\typora-user-images\image-20200409005123233.png)
-
-***Bài 2:***
-
-![img](C:\Users\an241\AppData\Roaming\Typora\typora-user-images\image-20200409005158195.png)
-
-***Bài 3:***
-
-![img](C:\Users\an241\AppData\Roaming\Typora\typora-user-images\image-20200409005243635.png)
-
-***Bài 4:***
-
-![img](C:\Users\an241\AppData\Roaming\Typora\typora-user-images\image-20200409005324118.png)
+</resources>
