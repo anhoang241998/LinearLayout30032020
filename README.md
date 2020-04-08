@@ -50,16 +50,16 @@ Do em code khá nhiều `Linear Layout` nên nó hơi rối và khi `build` lên
 
 ***Bài 1:***
 
-![img](C:\Users\an241\AppData\Roaming\Typora\typora-user-images\image-20200409005123233.png)
+![bài 1](https://github.com/anhoang241998/LinearLayout30032020/blob/master/picture/image-20200409005123233.png)
 
 ***Bài 2:***
 
-![img](C:\Users\an241\AppData\Roaming\Typora\typora-user-images\image-20200409005158195.png)
+![bài 2](https://github.com/anhoang241998/LinearLayout30032020/blob/master/picture/image-20200409005158195.png)
 
 ***Bài 3:***
 
-![img](C:\Users\an241\AppData\Roaming\Typora\typora-user-images\image-20200409005243635.png)
+![bài 3](https://github.com/anhoang241998/LinearLayout30032020/blob/master/picture/image-20200409005243635.png)
 
 ***Bài 4:***
 
-![img](C:\Users\an241\AppData\Roaming\Typora\typora-user-images\image-20200409005324118.png)
+![bài 4](https://github.com/anhoang241998/LinearLayout30032020/blob/master/picture/image-20200409005324118.png)
